@@ -1,0 +1,15 @@
+{
+    "stripeKey": "pk_test_pmjCZGyZbGQfvqr6eTchZb0g00tjboeX39",
+    "stripeOptions": {
+        "card": {
+            "cardCvc": true
+        },
+        "style": {
+            "base": {
+                "fontFamily": "'Work Sans', sans-serif",
+                "fontWeight": 600,
+                "color": "var(--header-color)"
+            }
+        }
+    }
+}
